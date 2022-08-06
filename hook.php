@@ -1,5 +1,5 @@
 <?php
-uopz_allow_exit(true);
+//uopz_allow_exit(true);
 /*ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 ini_set("error_log", "php-error.log");
